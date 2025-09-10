@@ -1,0 +1,20 @@
+Cereal Caja 500g,3200,10,Alimentos
+Leche Entera,900,30,Lácteos
+Agua Mineral 1.5L,800,35,Bebidas
+Pan Molde,1800,15,Panadería
+Arroz 1kg,1500,25,Alimentos
+Aceite Vegetal 1L,3500,12,Alimentos
+Queso Gouda 250g,2900,20,Lácteos
+Yogurt Natural 1L,1200,18,Lácteos
+Galletas de Chocolate,2200,22,Snacks
+Jugo de Naranja 1L,1700,28,Bebidas
+Café Molido 250g,4800,8,Bebidas
+Azúcar 1kg,1300,26,Alimentos
+Harina 1kg,1100,19,Alimentos
+Mantequilla 250g,2100,14,Lácteos
+Jamón Cocido 200g,2500,16,Fiambres
+Té en Bolsitas 20u,1500,30,Bebidas
+Chocolate Barra 100g,1200,24,Snacks
+Sal Fina 1kg,900,20,Alimentos
+Agua Saborizada 600ml,1000,32,Bebidas
+Pan Integral 500g,2000,12,Panadería
